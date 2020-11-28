@@ -1,0 +1,12 @@
+{
+  "name": "yafefw",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "scripts": {
+    "dev": "parcel serve ./basic_project/src/index.html"
+  }
+}
